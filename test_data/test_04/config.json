@@ -1,0 +1,10 @@
+{
+    "sites": [
+        {
+            "name": "houseofcheese.com",
+            "bidders": ["AUCT", "BIDD"],
+            "floor": 32
+        }
+    ],
+    "bidders": []
+}

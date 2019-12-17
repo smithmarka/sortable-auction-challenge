@@ -1,0 +1,23 @@
+{
+    "sites": [
+        {
+            "name": "houseofcheese.com",
+            "bidders": ["TEST"],
+            "floor": 32
+        }
+    ],
+    "bidders": [
+        {
+            "name": "AUCT",
+            "adjustment": -0.0625
+        },
+        {
+            "name": "BIDD",
+            "adjustment": 0
+        },
+        {
+            "name": "TEST",
+            "adjustment": 0
+        }
+    ]
+}
